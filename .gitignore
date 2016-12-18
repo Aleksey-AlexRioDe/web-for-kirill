@@ -35,3 +35,4 @@ node_modules
 build
 stats.json
 .DS_Store
+'.idea' 
