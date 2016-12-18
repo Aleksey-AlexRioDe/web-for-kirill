@@ -1,0 +1,37 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
+.idea
+*.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
+/.idea/
+/out/
+/dist/
+.idea/workspace.xml
+/target/
+*.log
+.DS_Store
+.asscache
+.slcache
+/.slcache
+logs
+null
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+node_modules
+build
+stats.json
+.DS_Store
